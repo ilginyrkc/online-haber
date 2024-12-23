@@ -1,0 +1,48 @@
+.ekonomi {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+article {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+article h2 {
+    font-size: 2em;
+    margin-top: 0;
+    color: #333;
+}
+  
+article p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+  
+article img {
+    height: 350px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+article a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+article a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 1em;
+}
